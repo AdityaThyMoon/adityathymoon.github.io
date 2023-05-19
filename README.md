@@ -1,3 +1,3 @@
 My personal website
 
-adityathymoon.github.io
+https://adityathymoon.github.io
