@@ -1,0 +1,39 @@
+.skills-container {
+    background-color: #3069a7;
+    
+    #skills {
+        height: 100vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin: 200px 0px 250px 0px;
+
+        .title {
+            font-size: 25px;
+            width: 55%;
+        }
+
+        .all-skills {
+            display: flex;
+            justify-content: space-evenly;
+
+            div {
+                background-color: #3675bb;
+                margin: 0px 50px;
+                height: 50vh;
+                width: 30vw;
+                display: flex;
+                align-items: center;
+                font-size: 19px;
+                flex-direction: column;
+            }
+
+            a {
+                color: inherit;
+                text-decoration: underline;
+            }
+        }
+    }
+    
+}

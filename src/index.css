@@ -1,0 +1,7 @@
+body {
+  margin: 0;
+    scroll-behavior: smooth;
+    font-family: 'Space Grotesk', sans-serif;
+    background-color: #163a51;
+    color: white;
+}

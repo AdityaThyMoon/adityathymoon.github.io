@@ -1,0 +1,25 @@
+.contact-container {
+    background-color: #1e6091;
+
+    #contact {
+        height: 75vh;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+        flex-direction: column;
+        margin: 50px 0px;
+
+        h1 {
+            font-size: 50px;
+        }
+
+        button {
+            font-size: 30px;
+            font-family: inherit;
+            border-radius: 10px;
+            border: none;
+            cursor: pointer;
+            background: #D5DCF9;
+        }
+    }
+}
